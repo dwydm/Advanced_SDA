@@ -4,36 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c225eaf-3d49-4c8f-b935-b73a35e2464a" name="Changes" comment="Zadanie 2 dodano klasy Staff, Student oraz klasę PersonDemo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Analyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Suit.java" afterDir="false" />
+    <list default="true" id="5c225eaf-3d49-4c8f-b935-b73a35e2464a" name="Changes" comment="Package refactor">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/DeliveryStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/DeliveryStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/POLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/POLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/POPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/POPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/PostOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/PostOffice/PostOfficeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/PostOffice/PostOfficeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/Receipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/Receipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/Wheel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/Workshop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/Workshop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/WorkshopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/WorkshopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadDom/Workshop/WorkshopServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Workshop/WorkshopServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Highway/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Highway/CarType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Highway/Highway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Highway/Highway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Highway/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Highway/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Highway/VehicleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Highway/VehicleInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Highway/zadanie" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Highway/zadanie" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad1/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad1/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad2/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad2/PersonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad2/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad2/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ZadExtra/OOP/Zad2/zadanie" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/OOP/Zad2/zadanie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Analyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Analyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardItem/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardItem/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/Suit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cwiczenia/Cards/CardItem/Suit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="pop2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,25 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Projekty/Java/Advanced_SDA/src/main/java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projekty/Java/Advanced_SDA/src/main/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CardsDemo">
-    <configuration name="CardsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Application.Cwiczenia.Cards.CardsDemo">
+    <configuration name="Cwiczenia.Cards.CardsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cwiczenia.Cards.CardsDemo" />
       <module name="Advanced_SDA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cwiczenia.Cards.*" />
+          <option name="PATTERN" value="Cwiczenia.Cards.CardItem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CardsDemo" />
-        <item itemvalue="Application.PersonDemo" />
+        <item itemvalue="Application.WorkshopDemo" />
         <item itemvalue="Application.SamochodDemo" />
+        <item itemvalue="Application.PersonDemo" />
         <item itemvalue="Application.LinieDemo" />
+        <item itemvalue="Application.Cwiczenia.Cards.CardsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656962244543</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Zadanie Cards">
+      <created>1657020010704</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657020010704</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Package refactor">
+      <created>1657020065315</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657020065315</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +279,9 @@
     <MESSAGE value="Zadanie Highway" />
     <MESSAGE value="Zadanie 2 + Dzien3 kolekcje" />
     <MESSAGE value="Zadanie 2 dodano klasy Staff, Student oraz klasę PersonDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 2 dodano klasy Staff, Student oraz klasę PersonDemo" />
+    <MESSAGE value="Zadanie Cards" />
+    <MESSAGE value="Package refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Package refactor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

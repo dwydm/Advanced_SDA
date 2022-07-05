@@ -1,4 +1,4 @@
-package Cwiczenia.Cards;
+package Cwiczenia.Cards.CardItem;
 
 public enum Rank {
     ACE("Ace", 1),

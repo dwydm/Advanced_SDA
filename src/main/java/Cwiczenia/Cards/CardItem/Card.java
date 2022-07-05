@@ -1,4 +1,4 @@
-package Cwiczenia.Cards;
+package Cwiczenia.Cards.CardItem;
 
 public class Card {
     private Rank rank;
